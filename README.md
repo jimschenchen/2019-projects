@@ -27,3 +27,11 @@
 ⼀、画中有诗。用户提交一张图⽚，App对图像进⾏语义分析和情感分析，加以用户所标注的主题标签为辅助，利用机器学习和数据挖掘等技术，为其匹配最为符合的古诗，解决用户“语⾔荒漠”的难题。
 
 ⼆、诗中有画。搭建评论配图社区，为⽤户分享读诗时的所思所感提供分享的平台，做到“诗中有画”的效果。更是让初读这⾸诗的⼈通过其他人的配图，加深代⼊感，更好地理解诗歌。
+
+## AI Tutor综合学习平台
+*男女搭配干活不累*
+成员： @MurphyJUAN（[GitHub](https://github.com/MurphyJUAN)）@AbdielNie（[GitHub](https://github.com/AbdielNie)）@jimschenchen（[GitHub](https://github.com/jimschenchen)）@AngelaGu（[GitHub]()）.
+
+[GitHub repo](https://github.com/MurphyJUAN/theHack2019nanNvdaPeiganHuobuLei)
+
+一个学习整合功能平台， 学习+记录笔记+to do list为一体化， 并拥有一个24小时陪伴的学习AI助手， 辅导学生写作（可以随时检测语法问题并分析反馈搜索出同类型文章的范文）， 听力（通过AI tutor的分析，得出听力薄弱点）， 口语（24小时随时随地AI tutor的口语辅导）还有其他兴趣类型学习。
