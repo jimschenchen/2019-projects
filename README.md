@@ -30,7 +30,7 @@
 
 ## AI Tutor综合学习平台
 *男女搭配干活不累*
-成员： @MurphyJUAN（[GitHub](https://github.com/MurphyJUAN)）@AbdielNie（[GitHub](https://github.com/AbdielNie)）@jimschenchen（[GitHub](https://github.com/jimschenchen)）@AngelaGu（[GitHub]()）.
+成员： @MurphyJUAN（[GitHub](https://github.com/MurphyJUAN)）@AbdielNie（[GitHub](https://github.com/AbdielNie)）@jimschenchen（[GitHub](https://github.com/jimschenchen)）@Angela-inca（[GitHub](https://github.com/Angela-inca)）.
 
 [GitHub repo](https://github.com/MurphyJUAN/theHack2019nanNvdaPeiganHuobuLei)
 
